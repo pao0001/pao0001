@@ -1,5 +1,11 @@
 # Giuliano Paolini
 
+- **📞 Phone:** +44 7981 959058  
+- **📧 Email:** [giulianopaolini91@gmail.com](mailto:giulianopaolini91@gmail.com)  
+- **🔗 LinkedIn:** [linkedin.com/in/giuliano-marcello-paolini](https://www.linkedin.com/in/giuliano-marcello-paolini/)  
+- **💻 GitHub:** [github.com/pao0001](https://github.com/pao0001)  
+
+
 **Client-Facing Leader & Technical Problem Solver | Software Developer**  
 I'm a hands-on leader with over 9 years of experience in high-pressure, client-facing roles, now applying my STEM background and technical skills to software development and AI-driven solutions.  
 Skilled at solving complex problems and optimising workflows, with years of experience managing cross-functional projects. Experienced in full-stack development with a passion for customer experience innovation.
@@ -65,15 +71,6 @@ Meal tracker and recipe discovery app
 - **Languages & Tools:** Python, SQL, Java, Kotlin, HTML, CSS, Flask, Spring Boot, PostgreSQL, Git, TDD, Agile, REST APIs  
 - **Makers Academy Graduate (July 2025):** Intensive Full-Stack Software Engineering Bootcamp  
 - **B.Sc. Biomedical Science** – RMIT University (2012), Victoria, Australia  
-
----
-
-## 🔗 Contact
-
-- **📞 Phone:** +44 7981 959058  
-- **📧 Email:** [giulianopaolini91@gmail.com](mailto:giulianopaolini91@gmail.com)  
-- **🔗 LinkedIn:** [linkedin.com/in/giuliano-marcello-paolini](https://www.linkedin.com/in/giuliano-marcello-paolini/)  
-- **💻 GitHub:** [github.com/pao0001](https://github.com/pao0001)  
 
 ---
 
